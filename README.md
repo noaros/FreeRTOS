@@ -8,4 +8,6 @@ Ok lol so first conflict is with this ReadMe file! Claude made its own, as part 
 
 I realize I'm a bit late to the party, but holy crap this is amazing and scary all at same time. In a world where anyone can just use plain language to accomplish highly technical things that often work, who will be left to understand systems when they don't?
 
+Except... Ha ha ha Claude lied to me. It told me one file had its branch's version untouched, but actually it merged my version in with it. Oh well.. Live by the sword die by the sword.
+
 Now to study the system starting point it gave me..
