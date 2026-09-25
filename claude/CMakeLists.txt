@@ -14,7 +14,7 @@ set(FREERTOS_PORT GCC_POSIX CACHE STRING "FreeRTOS port")
 # heap_4: first-fit allocator that coalesces free blocks. A sensible default.
 set(FREERTOS_HEAP 4 CACHE STRING "FreeRTOS heap implementation (1-5)")
 
-add_subdirectory(FreeRTOS-Kernel)
+add_subdirectory(../FreeRTOS-Kernel build)
 
 # --- The application --------------------------------------------------------
 add_executable(app src/main.c)
