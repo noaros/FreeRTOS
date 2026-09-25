@@ -1,8 +1,4 @@
-# FreeRTOS
-
-The goal here is to explore the basics for setting up and using FreeTROS. Unlike all my other projects to this point, I'll use Claude Code and perhaps some others, since I need to also learn what they can do. But the goal is still understanding, not the finish line, and I don't want those tools to get in the way of that.
-
-## Bare-bones project
+# Bare-bones project
 
 A minimal FreeRTOS app that runs **on Linux** using the kernel's POSIX port
 (each FreeRTOS task is a pthread), so no board or emulator is needed.
