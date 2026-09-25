@@ -12,6 +12,7 @@ Except... Ha ha ha Claude lied to me. It told me one file had its branch's versi
 
 It made me something weird, just using a POSIX wrapper between Linux and FreeRTOS to act as a simulator of real hardware. And it works.
 I followed its build instructions (had to install cmake), ran it, and voila, printed output on screen.
+
 <img width="444" height="396" alt="image" src="https://github.com/user-attachments/assets/84da6dc7-c5a6-4e3c-bc5b-f85b50009db9" />
 
  This isn't what I want of course, but is interesting enough for me to stop and study it awhile.
