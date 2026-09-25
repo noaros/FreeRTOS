@@ -22,3 +22,5 @@ I followed its build instructions (had to install cmake), ran it, and voila, pri
  https://freertos.org/Documentation/02-Kernel/03-Supported-devices/04-Demos/03-Emulation-and-simulation/Linux/FreeRTOS-simulator-for-Linux.
 
 Now I know!
+
+So I think I will detour a bit and just build up the FreeRTOS demo manually the old fashioned way. I shoved the Claude version into its own directory, but bumped up the FreeRTOS directory expecting to be shared with the manual demo. Adjusted CMake config so the Claude app works with the change. 
